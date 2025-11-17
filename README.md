@@ -1,7 +1,7 @@
 # caihong-system
 彩虹系统全站二开美化版本
 
-全站版本会部分核心文件加密-放心使用无后门<br>随缘更新~象征性收费9.9作为支持作者费用<br>程序需授权-介意勿扰~<br>
+全站版本会部分核心文件加密-放心使用无后门<br> 不定时更新-勿催<br>象征性收费9.9作为支持作者费用<br>程序需授权使用-介意勿扰
 
 <img width="2552" height="1314" alt="Image" src="https://github.com/user-attachments/assets/6c3fdc94-c80e-44ca-801f-892de489a9aa" />
 <img width="2552" height="1314" alt="Image" src="https://github.com/user-attachments/assets/dd3301b0-15c6-4043-9f85-acf424417528" />
